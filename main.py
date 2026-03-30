@@ -89,6 +89,7 @@ Le Paradoxe de Simpson :
 
   La variable cachée = le genre musical. Si tu l'ignores, tu tires la mauvaise conclusion.
 """
+print("imported!")
 
 # %% import data
 df = pd.read_csv("dataset.csv")
